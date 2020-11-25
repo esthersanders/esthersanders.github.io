@@ -95,6 +95,71 @@ video {
   vertical-align: baseline;
 }
 
+#intro {
+  background-color: #DEE2E6 !important;
+  color: #212529 !important;
+}
+
+#intro h1, h2 {
+  color: #212529 !important;
+}
+
+#intro h2 {
+  color: #212529 !important;
+}
+
+#sidebar {
+  background-color: #343a40 !important;
+}
+
+#projects {
+  /* background-color: #DEE2E6 !important;
+  color: #213539 !important; */
+  background-color: #6c757d !important;
+  color: white !important;
+}
+
+#projects h1, h2, h3, h4 {
+  color: white !important;
+}
+
+#skills {
+  background-color: #6c757d !important;
+  /* background-color: #adb5bd !important; */
+ 
+
+}
+
+#skills h2, h3 {
+  color: white !important;
+}
+
+#skills h3 {
+  color: white !important;
+}
+
+#contact {
+  /* background-color: #6c757d !important;
+  color: white !important; */
+  background-color: #DEE2E6 !important;
+  color: #213539 !important;
+
+}
+
+#contact h2, h3 {
+  /* color: white !important; */
+  color: #213539 !important;
+}
+
+#footer {
+  background-color: #e9ecef !important;
+  color: #212529 !important;
+}
+
+#footer li {
+  color: #212529 !important;
+}
+
 article,
 aside,
 details,
